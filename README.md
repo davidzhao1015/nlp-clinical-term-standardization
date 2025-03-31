@@ -1,6 +1,6 @@
-# NLP-based Clinical Terms Standardization (Proof of Concept)  
+# NLP-based Clinical Terms Standardization
 
-This notebook demonstrates how to standardize autoimmune encephalitis (AIE) subtype names using NLP techniques:
+This project is to standardize autoimmune encephalitis (AIE) subtype names using NLP techniques:
 
 - TF-IDF Cosine Similarity
 - Fuzzy Matching
